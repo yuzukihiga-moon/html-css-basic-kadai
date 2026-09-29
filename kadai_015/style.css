@@ -3,10 +3,15 @@ h1 {
   font-optical-sizing: auto;
   font-weight: 500;
   font-style: normal;
-
+  
+  font-size: 2rem;
+  letter-spacing: 1.2em;
   text-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   border-bottom: 3px solid rgb(115, 115, 114);
-  letter-spacing: 38px;
+}
+
+html {
+  font-size: 20px;
 }
 
 body {
